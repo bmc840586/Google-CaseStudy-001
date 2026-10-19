@@ -27,7 +27,7 @@ This is all the finished worked of the case study of Google Data Analytics cours
 	- created a pivot table in new sheet, row for start location, count columns for days of week
 	- open a new excel file and add all new finding into it
 	- and created line charts better visualization 
-share/act
+- share/act
 	- create a final repot file adding all the finding, pattens and insights,
 and add graphs for visualization, and add recommendation for conclusion (used google Gemini to get bit of help for creating final report)
 
